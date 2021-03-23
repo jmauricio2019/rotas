@@ -1,0 +1,11 @@
+C:\Users\rapha\source\repos\abasteca\abasteca\bin\Debug\abasteca.exe.config
+C:\Users\rapha\source\repos\abasteca\abasteca\bin\Debug\abasteca.exe
+C:\Users\rapha\source\repos\abasteca\abasteca\bin\Debug\abasteca.pdb
+C:\Users\rapha\source\repos\abasteca\abasteca\obj\Debug\abasteca.csprojAssemblyReference.cache
+C:\Users\rapha\source\repos\abasteca\abasteca\obj\Debug\abasteca.Form1.resources
+C:\Users\rapha\source\repos\abasteca\abasteca\obj\Debug\abasteca.Properties.Resources.resources
+C:\Users\rapha\source\repos\abasteca\abasteca\obj\Debug\abasteca.csproj.GenerateResource.cache
+C:\Users\rapha\source\repos\abasteca\abasteca\obj\Debug\abasteca.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\abasteca\abasteca\obj\Debug\abasteca.exe
+C:\Users\rapha\source\repos\abasteca\abasteca\obj\Debug\abasteca.pdb
+C:\Users\rapha\source\repos\abasteca\abasteca\obj\Debug\abasteca.frmAbasteca.resources
